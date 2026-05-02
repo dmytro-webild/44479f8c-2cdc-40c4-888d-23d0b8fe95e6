@@ -123,11 +123,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       animationType="slide-up"
       testimonials={[
-        { id: "1", name: "Anika", handle: "@anika", testimonial: "Beautiful work, tasted as good as it looked!", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/smiling-pretty-girl-model-standing-pointing-cabbage_114579-74356.jpg?_wi=2" },
-        { id: "2", name: "Siddharth", handle: "@sid", testimonial: "Professional and super friendly service.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/queer-couple-celebrating-birthday-together_23-2149570908.jpg" },
-        { id: "3", name: "Priya", handle: "@priya", testimonial: "Reliable on-time delivery for my party.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/happy-mother-with-apron-holding-plate-muffins_23-2148414889.jpg" },
-        { id: "4", name: "Rahul", handle: "@rahul", testimonial: "Excellent flavor profiles, truly customized.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/family-enjoying-new-year-party_23-2149173245.jpg" },
-        { id: "5", name: "Sneha", handle: "@sneha", testimonial: "The best custom cake studio in Pune!", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/bakery-concept-with-couple-home_23-2148018449.jpg" },
+        { id: "1", name: "Anika", handle: "@anika", testimonial: "Beautiful work, tasted as good as it looked!", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777741321525-7xf952g2.jpg" },
+        { id: "2", name: "Siddharth", handle: "@sid", testimonial: "Professional and super friendly service.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777741321526-lnprg8pk.jpg" },
+        { id: "3", name: "Priya", handle: "@priya", testimonial: "Reliable on-time delivery for my party.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777741321526-41xcgbu1.jpg" },
+        { id: "4", name: "Rahul", handle: "@rahul", testimonial: "Excellent flavor profiles, truly customized.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777741321526-huyqfnyh.jpg" },
+        { id: "5", name: "Sneha", handle: "@sneha", testimonial: "The best custom cake studio in Pune!", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777741321526-neqwtlve.jpg" },
       ]}
       showRating={true}
       title="Loved by Our Community"
