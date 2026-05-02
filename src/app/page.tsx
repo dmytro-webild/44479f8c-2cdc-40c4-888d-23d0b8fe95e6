@@ -97,7 +97,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/photo-positive-young-woman-with-curly-hair-holds-appetizing-cake-with-raspberries-enjoys-eating-sweet-creamy-food-closes-eyes-from-satisfaction-dressed-pink-formal-jacket-eating-dessert_273609-60933.jpg",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-7cfjr6dt.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-7cfjr6dt.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -151,7 +151,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Our Passion for Perfection"
       description="Located in Kharadi, Cake Crafts specializes in hand-crafted, designer cakes that define indulgence. We believe every celebration deserves a unique masterpiece created with fresh, premium ingredients and artistic precision."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-pj2wu200.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-pj2wu200.jpg?_wi=1"
     />
   </div>
 
@@ -167,42 +167,42 @@ export default function LandingPage() {
           name: "Chocolate Truffle Cake",
           price: "₹480",
           variant: "Small",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-pj2wu200.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-pj2wu200.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Coffee Moka Cake",
           price: "₹550",
           variant: "Medium",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-7cfjr6dt.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-7cfjr6dt.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "KitKat Cake",
           price: "₹650",
           variant: "Large",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-uusuad9u.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-uusuad9u.jpg?_wi=1",
         },
         {
           id: "p4",
           name: "Roasted Almond Cake",
           price: "₹550",
           variant: "Small",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-977ovp54.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-977ovp54.jpg?_wi=1",
         },
         {
           id: "p5",
           name: "Swiss Chocolate Cake",
           price: "₹450",
           variant: "Small",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-46x641cp.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-46x641cp.jpg?_wi=1",
         },
         {
           id: "p6",
           name: "Tiramisu Cake",
           price: "₹750",
           variant: "Large",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-pretty-girl-model-standing-pointing-cabbage_114579-74356.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-pretty-girl-model-standing-pointing-cabbage_114579-74356.jpg?_wi=1",
         },
       ]}
       title="Signature Creations"
@@ -220,17 +220,17 @@ export default function LandingPage() {
         {
           title: "Bespoke Designs",
           description: "Customized art to match your theme.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-uusuad9u.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-uusuad9u.jpg?_wi=2",
         },
         {
           title: "Fresh Quality",
           description: "Fresh ingredients for best taste.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-977ovp54.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-977ovp54.jpg?_wi=2",
         },
         {
           title: "On-Time Delivery",
           description: "Timely arrival for every event.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-46x641cp.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-46x641cp.jpg?_wi=2",
         },
       ]}
       title="Why Choose Cake Crafts?"
@@ -249,7 +249,7 @@ export default function LandingPage() {
           handle: "@anika",
           testimonial: "Beautiful work, tasted as good as it looked!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-pretty-girl-model-standing-pointing-cabbage_114579-74356.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-pretty-girl-model-standing-pointing-cabbage_114579-74356.jpg?_wi=2",
         },
         {
           id: "2",
@@ -352,7 +352,7 @@ export default function LandingPage() {
       tag="Get in touch"
       title="Let's Bake Something Special"
       description="Reach out to us today to order your customized masterpiece."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-pj2wu200.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3DB1yVZY3e5YuyRHOXIu2F1hkx9/uploaded-1777740966699-pj2wu200.jpg?_wi=3"
       mediaAnimation="slide-up"
     />
   </div>
